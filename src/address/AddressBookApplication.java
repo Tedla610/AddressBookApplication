@@ -1,3 +1,7 @@
+//Name: Tedla Boke
+//Date: 01/30/23
+//NetId: uq6435
+
 package address;
 
 /** main AddressBookApplication: purpose is to create some instance of AddressBook
@@ -7,7 +11,7 @@ class AddressBookApplication {
 
     // Constructor
     public AddressBookApplication() {
-        this.addressBook = new AddressBook();
+        addressBook = new AddressBook();
     }
 
     // Method to add entries to the address book

@@ -1,3 +1,5 @@
+
+
 package address;
 /** Menu class currently only has static methods to prompt to standard output information about a Contact like name,etc
  **/
