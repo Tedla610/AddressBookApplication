@@ -7,38 +7,38 @@ package address;
 /** main AddressBookApplication: purpose is to create some instance of AddressBook
  **/
 class AddressBookApplication {
-    private AddressBook addressBook;
+     private AddressBook addressBook;
 
-    // Constructor
-    public AddressBookApplication() {
-        addressBook = new AddressBook();
-    }
+     // Constructor
+     public AddressBookApplication() {
+     addressBook = new AddressBook();
+     }
 
-    // Method to add entries to the address book
-    public void add(AddressEntry entry1, AddressEntry entry2) {
-        addressBook.addAddressEntry(entry1);
-        addressBook.addAddressEntry(entry2);
-    }
+     // Method to add entries to the address book
+     public void add(AddressEntry entry1, AddressEntry entry2) {
+     addressBook.addAddressEntry(entry1);
+     addressBook.addAddressEntry(entry2);
+     }
 
-    // Method to list all entries in the address book
-    public void list() {
-        addressBook.initAddressBookExercise();
-    }
+     // Method to list all entries in the address book
+     public void list() {
+     addressBook.initAddressBookExercise();
+     }
 
-    public static void main(String[] args) {
-        // Creating instances of AddressEntry
-        AddressEntry entry1 = new AddressEntry("Tedla", "Boke", "1001 Main St", "Milpitas", "CA", 95035, "408-646-1124", "tboke@gmail.com");
-        AddressEntry entry2 = new AddressEntry("Jason", "Marvin", "123 Abel Ave", "Cupertino", "CA", 95129, "408-561-1178", "Coding123@yahoo.com");
+     public static void main(String[] args) {
+     // Creating instances of AddressEntry
+     AddressEntry entry1 = new AddressEntry("Tedla", "Boke", "1001 Main St", "Milpitas", "CA", 95035, "408-646-1124", "tboke@gmail.com");
+     AddressEntry entry2 = new AddressEntry("Jason", "Marvin", "123 Abel Ave", "Cupertino", "CA", 95129, "408-561-1178", "Coding123@yahoo.com");
 
-        // Creating instance of AddressBookApplication
-        AddressBookApplication ab = new AddressBookApplication();
+     // Creating instance of AddressBookApplication
+     AddressBookApplication ab = new AddressBookApplication();
 
-        // Adding entries to the address book
-        ab.add(entry1, entry2);
+     // Adding entries to the address book
+     ab.add(entry1, entry2);
 
-        // Listing all entries in the address book
-        ab.list();
-    }
+     // Listing all entries in the address book
+     ab.list();
+     }
 
     public static void main() {
 
