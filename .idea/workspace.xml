@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07ac783c-6d93-43f5-91ec-52772e4c5570" name="Changes" comment="Addition">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/address/AddressBookApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/address/AddressBookApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/address/AddressBookApplicationTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,11 +33,20 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.AddressBookApplication.executor": "Run",
     "Application.Main.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "true",
+    "JUnit.AddressBookApplicationTest.executor": "Run",
+    "Repository.Attach.Annotations": "true",
+    "Repository.Attach.JavaDocs": "true",
+    "Repository.Attach.Sources": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/tedlaboke/IdeaProjects/AddressBookApplication",
@@ -56,6 +64,28 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="address" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="AddressBookApplicationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AddressBookApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="address.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="address" />
+      <option name="MAIN_CLASS_NAME" value="address.AddressBookApplicationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AddressBookApplicationTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -83,6 +113,7 @@
       <workItem from="1706814942656" duration="1084000" />
       <workItem from="1707247271336" duration="703000" />
       <workItem from="1708024123740" duration="211000" />
+      <workItem from="1708024450013" duration="312000" />
     </task>
     <task id="LOCAL-00001" summary="First">
       <option name="closed" value="true" />
@@ -100,7 +131,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706641343168</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Addition">
+      <option name="closed" value="true" />
+      <created>1708024482304</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708024482304</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
