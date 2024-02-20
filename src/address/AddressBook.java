@@ -2,6 +2,10 @@ package address;
 
 import java.util.ArrayList;
 import java.util.List;
+
+/**
+ * AddressBook Class
+ */
 class AddressBook {
     private List<AddressEntry> addressEntryList;
 
@@ -10,6 +14,10 @@ class AddressBook {
         this.addressEntryList = new ArrayList<>();
     }
 
+    /**
+     *
+     * @param entry
+     */
     // Method to add an entry to the address book
     public void addAddressEntry(AddressEntry entry) {
         addressEntryList.add(entry);

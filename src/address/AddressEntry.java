@@ -1,5 +1,8 @@
 package address;
 
+/**
+ * AddressEntry Class
+ */
 class AddressEntry {
     private String firstName;
     private String lastName;
