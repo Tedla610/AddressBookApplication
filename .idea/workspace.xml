@@ -8,10 +8,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07ac783c-6d93-43f5-91ec-52772e4c5570" name="Changes" comment="Addition">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/address/AddressBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/address/AddressBook.java" afterDir="false" />
-    </list>
+    <list default="true" id="07ac783c-6d93-43f5-91ec-52772e4c5570" name="Changes" comment="Addition" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -201,7 +198,7 @@
       <workItem from="1707247271336" duration="703000" />
       <workItem from="1708024123740" duration="211000" />
       <workItem from="1708024450013" duration="657000" />
-      <workItem from="1708456445781" duration="1213000" />
+      <workItem from="1708456445781" duration="1525000" />
     </task>
     <task id="LOCAL-00001" summary="First">
       <option name="closed" value="true" />
@@ -251,7 +248,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708457407492</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Addition">
+      <option name="closed" value="true" />
+      <created>1708457978669</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1708457978669</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
