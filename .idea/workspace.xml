@@ -25,6 +25,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -77,6 +80,9 @@
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="address" />
@@ -198,7 +204,7 @@
       <workItem from="1707247271336" duration="703000" />
       <workItem from="1708024123740" duration="211000" />
       <workItem from="1708024450013" duration="657000" />
-      <workItem from="1708456445781" duration="1525000" />
+      <workItem from="1708456445781" duration="1842000" />
     </task>
     <task id="LOCAL-00001" summary="First">
       <option name="closed" value="true" />
@@ -256,7 +262,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708457978669</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Addition">
+      <option name="closed" value="true" />
+      <created>1708458893787</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1708458893787</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
