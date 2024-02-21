@@ -5,26 +5,43 @@
 package address;
 
 /** main AddressBookApplication: purpose is to create some instance of AddressBook
+ *
+ * @author Tedla Boke
  **/
 class AddressBookApplication {
-     private AddressBook addressBook;
+    private AddressBook addressBook;
 
-     // Constructor
+    /**
+     * A construction Method
+     */
+// Constructor
      public AddressBookApplication() {
      addressBook = new AddressBook();
      }
 
+    /**
+     * Method to add entries to the address book
+     * @param entry1
+     * @param entry2
+     */
      // Method to add entries to the address book
      public void add(AddressEntry entry1, AddressEntry entry2) {
      addressBook.addAddressEntry(entry1);
      addressBook.addAddressEntry(entry2);
      }
 
+    /**
+     * Method to list all entries in the address book
+     */
      // Method to list all entries in the address book
      public void list() {
      addressBook.initAddressBookExercise();
      }
 
+    /**
+     * Two instance address entries
+     * @param args
+     */
      public static void main(String[] args) {
      // Creating instances of AddressEntry
      AddressEntry entry1 = new AddressEntry("Tedla", "Boke", "1001 Main St", "Milpitas", "CA", 95035, "408-646-1124", "tboke@gmail.com");
@@ -39,6 +56,10 @@ class AddressBookApplication {
      // Listing all entries in the address book
      ab.list();
      }
+
+    /**
+     * Method to print out all the instances
+     */
 
     public static void main() {
 
@@ -61,10 +82,6 @@ class AddressBookApplication {
         System.out.println(myMenu.prompt_Telephone());
 
         System.out.println(myMenu.prompt_Email());
-
-
-
-        //***YOU NOW FINISH CODE TO CALL ALL the rest of the Menu prompts and display to standard output
 
     }
 }

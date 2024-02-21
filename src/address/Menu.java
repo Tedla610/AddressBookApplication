@@ -5,9 +5,9 @@ package address;
  **/
 
 class Menu {
-
     /**
-     * prompt_FirstName  generates a standard output prompt for the First Name to be entered
+     * Prompts to generate all the outputs
+     * @return
      */
     public String prompt_FirstName() {
 
@@ -49,8 +49,4 @@ class Menu {
 
         return "Email:";
     }
-
-
-    //*****NOW you create code for the other methods required for this Exercise ********
-
 }

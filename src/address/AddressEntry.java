@@ -13,6 +13,17 @@ class AddressEntry {
     private String phone;
     private String email;
 
+    /**
+     * Constructor
+     * @param firstName
+     * @param lastName
+     * @param street
+     * @param city
+     * @param state
+     * @param zip
+     * @param phone
+     * @param email
+     */
     // Constructor
     public AddressEntry(String firstName, String lastName, String street, String city, String state, int zip, String phone, String email) {
         this.firstName = firstName;
@@ -25,6 +36,10 @@ class AddressEntry {
         this.email = email;
     }
 
+    /**
+     * Getters and Setters
+     * @return
+     */
     // Getters and setters
     public String getFirstName() {
         return firstName;
@@ -90,6 +105,10 @@ class AddressEntry {
         this.email = email;
     }
 
+    /**
+     * toString method
+     * @return
+     */
     // toString method
     @Override
     public String toString() {

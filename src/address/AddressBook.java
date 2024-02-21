@@ -4,26 +4,29 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * AddressBook Class
+ * This is the AddressBook Class
  */
 class AddressBook {
     private List<AddressEntry> addressEntryList;
 
-    // Constructor
+    /**
+     * Constructor
+     */
     public AddressBook() {
         this.addressEntryList = new ArrayList<>();
     }
 
     /**
-     *
+     * Method to add an entry to the address book
      * @param entry
      */
-    // Method to add an entry to the address book
     public void addAddressEntry(AddressEntry entry) {
         addressEntryList.add(entry);
     }
 
-    // Method to print all entries in the address book
+    /**
+     * Method to print all entries in the address book
+     */
     public void initAddressBookExercise() {
         for (AddressEntry entry : addressEntryList) {
             System.out.println(entry);
