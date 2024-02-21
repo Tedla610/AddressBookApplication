@@ -38,7 +38,7 @@ class AddressEntry {
 
     /**
      * Getters and Setters
-     * @return
+     * @return all the outputs
      */
     // Getters and setters
     public String getFirstName() {
@@ -107,7 +107,7 @@ class AddressEntry {
 
     /**
      * toString method
-     * @return
+     * @return the addressBook
      */
     // toString method
     @Override
