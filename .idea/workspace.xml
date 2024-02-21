@@ -8,7 +8,79 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07ac783c-6d93-43f5-91ec-52772e4c5570" name="Changes" comment="Addition" />
+    <list default="true" id="07ac783c-6d93-43f5-91ec-52772e4c5570" name="Changes" comment="Addition">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddressBookApplication.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AddressBookApplication.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/address/AddressBook.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/address/AddressBookApplication.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/address/AddressBookApplicationTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/address/AddressBookTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/address/AddressEntry.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/address/AddressEntryTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/address/Menu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/address/MenuTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/address/class-use/AddressBook.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/address/class-use/AddressBookApplication.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/address/class-use/AddressBookApplicationTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/address/class-use/AddressBookTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/address/class-use/AddressEntry.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/address/class-use/AddressEntryTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/address/class-use/Menu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/address/class-use/MenuTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/address/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/address/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/address/package-use.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/class-use/Main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index-files/index-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index-files/index-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index-files/index-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index-files/index-4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index-files/index-5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index-files/index-6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index-files/index-7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index-files/index-8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/legal/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/legal/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/legal/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/legal/jquery.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/legal/jqueryUI.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lib/apiguardian-api-1.1.2-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lib/apiguardian-api-1.1.2-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lib/apiguardian-api-1.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lib/hamcrest-core-1.3-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lib/hamcrest-core-1.3-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lib/hamcrest-core-1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lib/junit-4.13.1-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lib/junit-4.13.1-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lib/junit-4.13.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lib/junit-jupiter-5.8.1-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lib/junit-jupiter-5.8.1-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lib/junit-jupiter-5.8.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lib/junit-jupiter-api-5.8.1-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lib/junit-jupiter-api-5.8.1-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lib/junit-jupiter-api-5.8.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lib/junit-jupiter-engine-5.8.1-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lib/junit-jupiter-engine-5.8.1-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lib/junit-jupiter-engine-5.8.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lib/junit-jupiter-params-5.8.1-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lib/junit-jupiter-params-5.8.1-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lib/junit-jupiter-params-5.8.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lib/junit-platform-commons-1.8.1-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lib/junit-platform-commons-1.8.1-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lib/junit-platform-commons-1.8.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lib/junit-platform-engine-1.8.1-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lib/junit-platform-engine-1.8.1-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lib/junit-platform-engine-1.8.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lib/opentest4j-1.2.0-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lib/opentest4j-1.2.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lib/opentest4j-1.2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/resources/glass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/resources/x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/script-dir/jquery-3.6.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/script-dir/jquery-ui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/script-dir/jquery-ui.min.js" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,9 +123,9 @@
     "JUnit.AddressEntryTest.executor": "Run",
     "JUnit.MenuTest.executor": "Run",
     "JUnit.MenuTest.prompt_City.executor": "Run",
-    "Repository.Attach.Annotations": "true",
+    "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "true",
-    "Repository.Attach.Sources": "true",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -207,7 +279,7 @@
       <workItem from="1707247271336" duration="703000" />
       <workItem from="1708024123740" duration="211000" />
       <workItem from="1708024450013" duration="657000" />
-      <workItem from="1708456445781" duration="3471000" />
+      <workItem from="1708456445781" duration="4054000" />
     </task>
     <task id="LOCAL-00001" summary="First">
       <option name="closed" value="true" />
@@ -297,7 +369,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708556197462</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Addition">
+      <option name="closed" value="true" />
+      <created>1708556325504</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1708556325504</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
