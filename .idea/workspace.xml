@@ -9,10 +9,78 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07ac783c-6d93-43f5-91ec-52772e4c5570" name="Changes" comment="Addition">
+      <change afterPath="$PROJECT_DIR$/Ad.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/address/AddressBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/address/data/AddressBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/address/AddressBook.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/address/AddressBookApplication.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/address/AddressBookApplicationTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/address/AddressBookTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/address/AddressEntry.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/address/AddressEntryTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/address/Menu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/address/MenuTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/address/class-use/AddressBook.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/address/class-use/AddressBookApplication.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/address/class-use/AddressBookApplicationTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/address/class-use/AddressBookTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/address/class-use/AddressEntry.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/address/class-use/AddressEntryTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/address/class-use/Menu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/address/class-use/MenuTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/address/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/address/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/address/package-use.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/allclasses-index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/allpackages-index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/class-use/Main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/copy.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/element-list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/help-doc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index-files/index-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index-files/index-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index-files/index-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index-files/index-4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index-files/index-5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index-files/index-6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index-files/index-7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index-files/index-8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/legal/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/legal/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/legal/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/legal/jquery.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/legal/jqueryUI.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/link.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/member-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/module-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/overview-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/overview-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/package-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/package-use.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/resources/glass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/resources/x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/script-dir/jquery-3.6.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/script-dir/jquery-ui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/script-dir/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/search-page.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/search.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/type-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/overview-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/overview-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/address/AddressBookApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/address/AddressBookApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/address/AddressEntry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/address/data/AddressEntry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/address/AddressBookApplicationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/address/AddressBookTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/address/AddressEntryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/address/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/address/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/address/MenuTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/address/data/AddressBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/address/data/AddressBook.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,59 +115,77 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.AddressBookApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
-    &quot;JUnit.AddressBookApplicationTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.AddressBookTest.addAddressEntry.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.AddressBookTest.initAddressBookExercise.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.AddressEntryTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.MenuTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.MenuTest.prompt_City.executor&quot;: &quot;Run&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers&quot;: &quot;true&quot;,
-    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/tedlaboke/IdeaProjects/AddressBookApplication&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/tedlaboke/IdeaProjects/AddressBookApplication/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.AddressBookApplication.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "true",
+    "JUnit.AddressBookApplicationTest.executor": "Run",
+    "JUnit.AddressBookTest.addAddressEntry.executor": "Run",
+    "JUnit.AddressBookTest.initAddressBookExercise.executor": "Run",
+    "JUnit.AddressEntryTest.executor": "Run",
+    "JUnit.MenuTest.executor": "Run",
+    "JUnit.MenuTest.prompt_City.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "true",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers": "true",
+    "create.test.in.the.same.root": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/tedlaboke/IdeaProjects/AddressBookApplication/src/address",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/tedlaboke/IdeaProjects/AddressBookApplication/src/Main.java",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="address" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/address" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/docs" />
       <recent name="$PROJECT_DIR$/address" />
       <recent name="$PROJECT_DIR$/index-files" />
-      <recent name="$PROJECT_DIR$" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="address" />
     </key>
   </component>
   <component name="RunManager">
+    <configuration name="AddressBookApplicationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AddressBookApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="address.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="address" />
+      <option name="MAIN_CLASS_NAME" value="address.AddressBookApplicationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AddressBookTest.addAddressEntry" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AddressBookApplication" />
       <extension name="coverage">
@@ -128,21 +214,6 @@
       <option name="MAIN_CLASS_NAME" value="address.AddressBookTest" />
       <option name="METHOD_NAME" value="initAddressBookExercise" />
       <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AddressEntryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="AddressBookApplication" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="address.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="address" />
-      <option name="MAIN_CLASS_NAME" value="address.AddressEntryTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -180,11 +251,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.AddressBookApplicationTest" />
         <item itemvalue="JUnit.MenuTest" />
         <item itemvalue="JUnit.MenuTest.prompt_City" />
         <item itemvalue="JUnit.AddressBookTest.initAddressBookExercise" />
         <item itemvalue="JUnit.AddressBookTest.addAddressEntry" />
-        <item itemvalue="JUnit.AddressEntryTest" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +287,7 @@
       <workItem from="1708024123740" duration="211000" />
       <workItem from="1708024450013" duration="657000" />
       <workItem from="1708456445781" duration="4449000" />
-      <workItem from="1708633148279" duration="2170000" />
+      <workItem from="1708633148279" duration="5569000" />
     </task>
     <task id="LOCAL-00001" summary="First">
       <option name="closed" value="true" />
@@ -330,7 +401,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708557232345</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Addition">
+      <option name="closed" value="true" />
+      <created>1708635607319</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1708635607319</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -351,25 +430,5 @@
     <MESSAGE value="First" />
     <MESSAGE value="Addition" />
     <option name="LAST_COMMIT_MESSAGE" value="Addition" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/address/data/AddressBook.java</url>
-          <line>11</line>
-          <properties class="address.data.AddressBook" method="addEntry">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
