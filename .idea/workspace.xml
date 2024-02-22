@@ -9,77 +9,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07ac783c-6d93-43f5-91ec-52772e4c5570" name="Changes" comment="Addition">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddressBookApplication.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AddressBookApplication.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/address/AddressBook.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/address/AddressBookApplication.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/address/AddressBookApplicationTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/address/AddressBookTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/address/AddressEntry.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/address/AddressEntryTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/address/Menu.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/address/MenuTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/address/class-use/AddressBook.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/address/class-use/AddressBookApplication.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/address/class-use/AddressBookApplicationTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/address/class-use/AddressBookTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/address/class-use/AddressEntry.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/address/class-use/AddressEntryTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/address/class-use/Menu.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/address/class-use/MenuTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/address/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/address/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/address/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/class-use/Main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index-files/index-1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index-files/index-2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index-files/index-3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index-files/index-4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index-files/index-5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index-files/index-6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index-files/index-7.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index-files/index-8.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/legal/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/legal/ASSEMBLY_EXCEPTION" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/legal/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/legal/jquery.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/legal/jqueryUI.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lib/apiguardian-api-1.1.2-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lib/apiguardian-api-1.1.2-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lib/apiguardian-api-1.1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lib/hamcrest-core-1.3-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lib/hamcrest-core-1.3-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lib/hamcrest-core-1.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lib/junit-4.13.1-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lib/junit-4.13.1-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lib/junit-4.13.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lib/junit-jupiter-5.8.1-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lib/junit-jupiter-5.8.1-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lib/junit-jupiter-5.8.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lib/junit-jupiter-api-5.8.1-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lib/junit-jupiter-api-5.8.1-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lib/junit-jupiter-api-5.8.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lib/junit-jupiter-engine-5.8.1-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lib/junit-jupiter-engine-5.8.1-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lib/junit-jupiter-engine-5.8.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lib/junit-jupiter-params-5.8.1-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lib/junit-jupiter-params-5.8.1-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lib/junit-jupiter-params-5.8.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lib/junit-platform-commons-1.8.1-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lib/junit-platform-commons-1.8.1-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lib/junit-platform-commons-1.8.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lib/junit-platform-engine-1.8.1-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lib/junit-platform-engine-1.8.1-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lib/junit-platform-engine-1.8.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lib/opentest4j-1.2.0-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lib/opentest4j-1.2.0-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lib/opentest4j-1.2.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/resources/glass.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/resources/x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/script-dir/jquery-3.6.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/script-dir/jquery-ui.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/script-dir/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/address/AddressBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/address/data/AddressBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/address/AddressBookApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/address/AddressBookApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/address/AddressEntry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/address/data/AddressEntry.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,6 +33,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -111,41 +47,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.AddressBookApplication.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Downloaded.Files.Path.Enabled": "true",
-    "JUnit.AddressBookApplicationTest.executor": "Run",
-    "JUnit.AddressBookTest.addAddressEntry.executor": "Run",
-    "JUnit.AddressBookTest.initAddressBookExercise.executor": "Run",
-    "JUnit.AddressEntryTest.executor": "Run",
-    "JUnit.MenuTest.executor": "Run",
-    "JUnit.MenuTest.prompt_City.executor": "Run",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "true",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers": "true",
-    "create.test.in.the.same.root": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/tedlaboke/IdeaProjects/AddressBookApplication",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/tedlaboke/IdeaProjects/AddressBookApplication/src/Main.java",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.AddressBookApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
+    &quot;JUnit.AddressBookApplicationTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AddressBookTest.addAddressEntry.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AddressBookTest.initAddressBookExercise.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AddressEntryTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MenuTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MenuTest.prompt_City.executor&quot;: &quot;Run&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers&quot;: &quot;true&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/tedlaboke/IdeaProjects/AddressBookApplication&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/tedlaboke/IdeaProjects/AddressBookApplication/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="address" />
@@ -279,7 +215,8 @@
       <workItem from="1707247271336" duration="703000" />
       <workItem from="1708024123740" duration="211000" />
       <workItem from="1708024450013" duration="657000" />
-      <workItem from="1708456445781" duration="4054000" />
+      <workItem from="1708456445781" duration="4449000" />
+      <workItem from="1708633148279" duration="2170000" />
     </task>
     <task id="LOCAL-00001" summary="First">
       <option name="closed" value="true" />
@@ -377,7 +314,23 @@
       <option name="project" value="LOCAL" />
       <updated>1708556325504</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Addition">
+      <option name="closed" value="true" />
+      <created>1708556999203</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1708556999203</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Addition">
+      <option name="closed" value="true" />
+      <created>1708557232345</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1708557232345</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -406,6 +359,15 @@
           <url>file://$PROJECT_DIR$/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/address/data/AddressBook.java</url>
+          <line>11</line>
+          <properties class="address.data.AddressBook" method="addEntry">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

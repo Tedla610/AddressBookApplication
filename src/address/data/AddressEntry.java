@@ -1,9 +1,9 @@
-package address;
+package address.data;
 
 /**
  * AddressEntry Class
  */
-class AddressEntry {
+public class AddressEntry {
     private String firstName;
     private String lastName;
     private String street;
@@ -25,13 +25,13 @@ class AddressEntry {
      * @param email
      */
     // Constructor
-    public AddressEntry(String firstName, String lastName, String street, String city, String state, int zip, String phone, String email) {
+    public AddressEntry(String firstName, String lastName, String street, String city, String state, String zip, String phone, String email) {
         this.firstName = firstName;
         this.lastName = lastName;
         this.street = street;
         this.city = city;
         this.state = state;
-        this.zip = zip;
+        this.zip = Integer.parseInt(zip);
         this.phone = phone;
         this.email = email;
     }
