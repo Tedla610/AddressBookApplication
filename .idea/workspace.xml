@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="AnalysisUIOptions">
-    <option name="SCOPE_TYPE" value="8" />
     <option name="CUSTOM_SCOPE_NAME" value="All Places" />
   </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07ac783c-6d93-43f5-91ec-52772e4c5570" name="Changes" comment="Addition of Comments">
-      <change afterPath="$PROJECT_DIR$/src/address/AddressBookApplicationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/address/MenuTest.java" afterDir="false" />
+    <list default="true" id="07ac783c-6d93-43f5-91ec-52772e4c5570" name="Changes" comment="Addition(Testing)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,11 +48,12 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.AddressBookApplication.executor": "Run",
     "Application.AddressBookApplicationTest (1).executor": "Run",
-    "Application.AddressBookApplicationTest.executor": "Run",
+    "Application.AddressBookApplicationTest.executor": "Coverage",
     "Application.Main.executor": "Run",
     "Downloaded.Files.Path.Enabled": "true",
     "JUnit.AddressBookApplicationTest.executor": "Run",
     "JUnit.AddressBookTest.addAddressEntry.executor": "Run",
+    "JUnit.AddressBookTest.executor": "Run",
     "JUnit.AddressBookTest.initAddressBookExercise.executor": "Run",
     "JUnit.AddressEntryTest.executor": "Run",
     "JUnit.MenuTest.executor": "Run",
@@ -218,7 +216,7 @@
       <workItem from="1708024450013" duration="657000" />
       <workItem from="1708456445781" duration="4449000" />
       <workItem from="1708633148279" duration="6998000" />
-      <workItem from="1708816497783" duration="7083000" />
+      <workItem from="1708816497783" duration="8325000" />
     </task>
     <task id="LOCAL-00001" summary="First">
       <option name="closed" value="true" />
@@ -372,7 +370,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708840531143</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Addition(Testing)">
+      <option name="closed" value="true" />
+      <created>1708842037034</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1708842037034</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -393,6 +399,12 @@
     <MESSAGE value="First" />
     <MESSAGE value="Addition" />
     <MESSAGE value="Addition of Comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="Addition of Comments" />
+    <MESSAGE value="Addition(Testing)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Addition(Testing)" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AddressBookApplication$AddressBookApplicationTest.ic" NAME="AddressBookApplicationTest Coverage Results" MODIFIED="1708841445542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>address.*</FILTER>
+    </SUITE>
   </component>
 </project>
