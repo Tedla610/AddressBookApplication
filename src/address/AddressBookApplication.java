@@ -11,30 +11,33 @@ import java.io.FileNotFoundException;
 import java.util.Scanner;
 import java.util.Set;
 
+/**
+ *
+ */
 public class AddressBookApplication {
     private static final AddressBook addressBook = new AddressBook();
+    private static final Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
         char choice;
 
         do {
-            printMenu();
+            Menu.displayMenu();
             System.out.print("Enter your menu selection: ");
             choice = scanner.nextLine().toLowerCase().charAt(0);
 
             switch (choice) {
                 case 'a':
-                    loadFromFile(scanner);
+                    loadFromFile();
                     break;
                 case 'b':
-                    addEntry(scanner);
+                    addEntry();
                     break;
                 case 'c':
-                    removeEntry(scanner);
+                    removeEntry();
                     break;
                 case 'd':
-                    findEntry(scanner);
+                    findEntry();
                     break;
                 case 'e':
                     listEntries();
@@ -48,19 +51,7 @@ public class AddressBookApplication {
         } while (choice != 'f');
     }
 
-    private static void printMenu() {
-        System.out.println("*****************************");
-        System.out.println("Please enter your menu selection");
-        System.out.println("a) Loading From File");
-        System.out.println("b) Addition");
-        System.out.println("c) Removal");
-        System.out.println("d) Find");
-        System.out.println("e) Listing");
-        System.out.println("f) Quit");
-        System.out.println("*****************************");
-    }
-
-    private static void loadFromFile(Scanner scanner) {
+    private static void loadFromFile() {
         System.out.println("Enter in FileName:");
         String fileName = scanner.nextLine();
         try {
@@ -83,7 +74,7 @@ public class AddressBookApplication {
         }
     }
 
-    private static void addEntry(Scanner scanner) {
+    private static void addEntry() {
         System.out.println("First Name:");
         String firstName = scanner.nextLine();
         System.out.println("Last Name:");
@@ -107,7 +98,7 @@ public class AddressBookApplication {
         System.out.println(entry);
     }
 
-    private static void removeEntry(Scanner scanner) {
+    private static void removeEntry() {
         System.out.println("Enter the last name of the entry to remove:");
         String lastName = scanner.nextLine();
         Set<AddressEntry> foundEntries = addressBook.findEntriesByLastName(lastName);
@@ -122,17 +113,20 @@ public class AddressBookApplication {
             index++;
         }
         System.out.print("Enter the index of the entry to remove: ");
-        int entryIndex = scanner.nextInt();
-        if (entryIndex <= 0 || entryIndex > foundEntries.size()) {
-            System.out.println("Invalid index!");
-            return;
+        try {
+            int entryIndex = Integer.parseInt(scanner.nextLine());
+            if (entryIndex <= 0 || entryIndex > foundEntries.size()) {
+                System.out.println("Invalid index!");
+                return;
+            }
+            AddressEntry[] entriesArray = foundEntries.toArray(new AddressEntry[0]);
+            addressBook.removeEntry(entriesArray[entryIndex - 1]);
+            System.out.println("Entry removed successfully.");
+        } catch (NumberFormatException e) {
+            System.out.println("Invalid input! Please enter a valid integer index.");
         }
-        AddressEntry[] entriesArray = foundEntries.toArray(new AddressEntry[0]);
-        addressBook.removeEntry(entriesArray[entryIndex - 1]);
-        System.out.println("Entry removed successfully.");
     }
-
-    private static void findEntry(Scanner scanner) {
+    private static void findEntry() {
         System.out.println("Enter the beginning of the last name:");
         String lastNameStart = scanner.nextLine();
         Set<AddressEntry> foundEntries = addressBook.findEntriesByLastName(lastNameStart);

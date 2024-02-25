@@ -1,17 +1,11 @@
-John,Doe,456 7th Street,Oakland,CA,93923,john.doe@csueastbay.edu,510-486-1235
-Jane,Smith,789 10th Avenue,San Francisco,CA,93924,jane.smith@csueastbay.edu,510-486-1236
-Robert,Johnson,321 13th Street,San Jose,CA,93925,robert.johnson@csueastbay.edu,510-486-1237
-Emily,Davis,654 16th Avenue,Berkeley,CA,93926,emily.davis@csueastbay.edu,510-486-1238
-William Brown,987 19th Street,Santa Clara,CA,93927,william.brown@csueastbay.edu,510-486-1239
-John,Doe,456 7th Street,Oakland,CA,93923,john.doe@csueastbay.edu,510-486-1235
-Jane,Smith,789 10th Avenue,San Francisco,CA,93924,jane.smith@csueastbay.edu,510-486-1236
-Robert,Johnson,321 13th Street,San Jose,CA,93925,robert.johnson@csueastbay.edu,510-486-1237
-Emily,Davis,654 16th Avenue,Berkeley,CA,93926,emily.davis@csueastbay.edu,510-486-1238
-William Brown,987 19th Street,Santa Clara,CA,93927,william.brown@csueastbay.edu,510-486-1239
-John,Doe,456 7th Street,Oakland,CA,93923,john.doe@csueastbay.edu,510-486-1235
-Jane,Smith,789 10th Avenue,San Francisco,CA,93924,jane.smith@csueastbay.edu,510-486-1236
-Robert,Johnson,321 13th Street,San Jose,CA,93925,robert.johnson@csueastbay.edu,510-486-1237
-Emily,Davis,654 16th Avenue,Berkeley,CA,93926,emily.davis@csueastbay.edu,510-486-1238
-William Brown,987 19th Street,Santa Clara,CA,93927,william.brown@csueastbay.edu,510-486-1239
+John,Doe,456 7th Street,Oakland,CA,93923,510-486-1235,john.doe@csueastbay.edu,
+Jane,Smith,789 10th Avenue,San Francisco,CA,93924,510-486-1236,jane.smith@csueastbay.edu,
+Robert,Johnson,321 13th Street,San Jose,CA,93925,510-486-1237,robert.johnson@csueastbay.edu,
+Emily,Davis,654 16th Avenue,Berkeley,CA,93926,510-486-1238,emily.davis@csueastbay.edu,
+William,Brown,987 19th Street,Santa Clara,CA,93927,510-486-1239,william.brown@csueastbay.edu,
+John,Doe,456 7th Street,Oakland,CA,93923,510-486-1235,john.doe@csueastbay.edu,
+Jane,Smith,789 10th Avenue,San Francisco,CA,93924,510-486-1236,jane.smith@csueastbay.edu,
+Robert,Johnson,321 13th Street,San Jose,CA,93925,510-486-1237,robert.johnson@csueastbay.edu,
+
 
 

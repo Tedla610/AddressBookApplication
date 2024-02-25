@@ -1,18 +1,17 @@
 package address.data;
 
-import java.util.HashSet;
-import java.util.Set;
+import java.util.*;
 
 public class AddressBook {
     private Set<AddressEntry> entries = new HashSet<>();
 
-    // Constructor, getters, setters, and other methods omitted for brevity
 
     public Set<AddressEntry> getEntries() {
         return entries;
     }
 
     public void addEntry(AddressEntry entry) {
+        entries.add(entry);
     }
 
     public Set<AddressEntry> findEntriesByLastName(String lastName) {
@@ -26,8 +25,14 @@ public class AddressBook {
     }
 
     public void removeEntry(AddressEntry addressEntry) {
+        entries.remove(addressEntry);
     }
 
     public void listEntriesInAlphabeticOrder() {
+        List<AddressEntry> sortedEntries = new ArrayList<>(entries);
+        Collections.sort(sortedEntries, Comparator.comparing(AddressEntry::getLastName).thenComparing(AddressEntry::getFirstName));
+        for (AddressEntry entry : sortedEntries) {
+            System.out.println(entry);
+        }
     }
 }
