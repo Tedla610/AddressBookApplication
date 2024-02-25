@@ -12,12 +12,16 @@ import java.util.Scanner;
 import java.util.Set;
 
 /**
- *
+ *This contains the main application class
  */
 public class AddressBookApplication {
     private static final AddressBook addressBook = new AddressBook();
     private static final Scanner scanner = new Scanner(System.in);
 
+    /**
+     *
+     * @param args
+     */
     public static void main(String[] args) {
         char choice;
 
@@ -51,6 +55,9 @@ public class AddressBookApplication {
         } while (choice != 'f');
     }
 
+    /**
+     * A method for loading of entries from a file
+     */
     private static void loadFromFile() {
         System.out.println("Enter in FileName:");
         String fileName = scanner.nextLine();
@@ -74,6 +81,9 @@ public class AddressBookApplication {
         }
     }
 
+    /**
+     * A method for prompting user for information to be used to create a new AddressEntry
+     */
     private static void addEntry() {
         System.out.println("First Name:");
         String firstName = scanner.nextLine();
@@ -98,6 +108,9 @@ public class AddressBookApplication {
         System.out.println(entry);
     }
 
+    /**
+     * A method removing of an AddressEntry from the AddressBook.
+     */
     private static void removeEntry() {
         System.out.println("Enter the last name of the entry to remove:");
         String lastName = scanner.nextLine();
@@ -126,6 +139,10 @@ public class AddressBookApplication {
             System.out.println("Invalid input! Please enter a valid integer index.");
         }
     }
+
+    /**
+     * A method that prompts users for the begining of the users last name
+     */
     private static void findEntry() {
         System.out.println("Enter the beginning of the last name:");
         String lastNameStart = scanner.nextLine();
@@ -140,6 +157,9 @@ public class AddressBookApplication {
         }
     }
 
+    /**
+     * A method for listing (a "dump") of the addresses in alphabetic order by the person's last name.
+     */
     private static void listEntries() {
         addressBook.listEntriesInAlphabeticOrder();
     }

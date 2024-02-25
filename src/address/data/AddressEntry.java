@@ -1,7 +1,7 @@
 package address.data;
 
 /**
- * AddressEntry Class
+ * AddressEntry Class which represents a single Address/Contact information entry in the AddressBook
  */
 public class AddressEntry {
     private String firstName;

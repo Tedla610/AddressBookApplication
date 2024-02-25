@@ -1,10 +1,13 @@
 package address;
 
 /**
- *
+ * This Menu this class is used to display menu options to the user
  */
 
 class Menu {
+    /**
+     * A method to display the program options a-f.
+     */
     public static void displayMenu() {
         System.out.println("*****************************");
         System.out.println("Please enter your menu selection");
