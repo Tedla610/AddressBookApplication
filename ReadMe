@@ -1,0 +1,34 @@
+Address Book Console Application
+
+Overview
+
+The Address Book Console Application is a Java-based solution
+for managing contact information. It provides functionalities for adding,
+removing, searching, and listing contacts via a user-friendly console interface.
+
+Features
+
+Modular design using Object-Oriented Programming principles
+Utilizes Java Collections for efficient data storage
+Comprehensive unit testing ensures reliability and correctness
+Integrated with Git and GitHub for version control and collaboration
+Emphasizes documentation and user input correctness for ease of use
+
+Usage
+
+Clone the repository.
+Open the project in your preferred Java IDE.
+Build and run the AddressBookApplication class.
+Follow the on-screen prompts to perform various operations such
+as adding, removing, searching, and listing contacts.
+
+Dependencies
+
+Java Development Kit (JDK)
+Git (optional for version control)
+
+Contribution
+
+Contributions are welcome! Feel free to fork the repository,
+make your changes, and submit a pull request.
+
